@@ -6,7 +6,7 @@
 print('Welcome to my computer quiz!')
 ```
 
-2. if else
+2. if else 判斷式，後面都須加上 :
 
 ```python
 answer = input("What does CPU stand for? ")
